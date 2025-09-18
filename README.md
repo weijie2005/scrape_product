@@ -1,5 +1,5 @@
 ## Project Overview
-First, use Selenium to automatically scrape product information from Taobao and JD.com for the same items. Then, process and clean the collected data. Next, analyze the same products based on indicators such as price, sales volume, and place of origin. Finally, use tools like Seaborn, Pyecharts, and Streamlit to visualize and display the comparison differences between Taobao and JD.com through charts.
+First, use Selenium to automatically scrape product information from Taobao and JD for the same items. Then, process and clean the collected data. Next, analyze the same products based on indicators such as price, sales volume, and place of origin. Finally, use tools like Seaborn, Pyecharts, and Streamlit to visualize and display the comparison differences between Taobao and JD through charts.
 
 ## Main Features
 ### 1.Data-crawling module: uses Selenium to drive the browser automatically and locates key elements such as price and sales volume on Taobao/JD product pages via XPath.
